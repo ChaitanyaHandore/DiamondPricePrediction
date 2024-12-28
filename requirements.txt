@@ -1,0 +1,9 @@
+pandas
+numpy
+flask
+
+# to trigger the setup of py use '-e .'
+# by using this we can also install the packages by just using this 'pip install -r requirements.txt' 
+# all the file such as build, DiamondPricePrediction.egg-info, dist will get create instead of using setup command
+
+
